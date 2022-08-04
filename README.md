@@ -1,2 +1,2 @@
-# TheSibyll-github.io
+# TheSibyll.github.io
 Project
